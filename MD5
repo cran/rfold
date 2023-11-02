@@ -1,0 +1,11 @@
+3680a516b6ed0be936a838738de0db71 *DESCRIPTION
+ce7c21a851fc05d855d30ded2dd4dca4 *LICENSE
+818722a25944f8f44c044f54cb89f6cd *NAMESPACE
+5793a5608b1f247fa72d16e10bb303a9 *NEWS.md
+7453e420754cad0e8d5d7d3e7d719e3a *R/main.R
+b4844025274abe17014899b8352c7388 *README.md
+90189bfb82ebe81e65db92e71a32854a *man/figures/figure1.png
+e631da678fd55a6dd635e12a7f6a7bac *man/figures/figure2.png
+9f02da1d16599452a48c616fe75b2bd6 *man/rfold.Rd
+e6cfab9a5c250596a1a122da5f026ace *tests/testthat.R
+7510abeeea816f2d7cb19640d08536f5 *tests/testthat/test-main.R
